@@ -6,7 +6,7 @@ close all
 
 version = 'original (Dec 2017)';
 numBaseBlocks = 6; % 8 trials per block, 6 blocks = 72 trials (unless social cues also used)
-numPostBlocks = 6; % 8 trials per block, 6 blocks = 48 trials
+numPostBlocks = 6; % 8 trials per block, 6 blocks u= 48 trials
 numLearnTrials = 12; % must be even
 
 rewardVideoFrameLength = 230; % length of reward video in frames on loop (230)
